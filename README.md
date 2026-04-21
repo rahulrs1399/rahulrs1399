@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # 👋 Hey, I'm Rahul
 
 🚀 Frontend Developer | React.js Enthusiast | Building Scalable UI Experiences
@@ -91,5 +90,3 @@
 ## ✨ Fun Fact
 
 I don’t just build UI — I build **experiences that users actually enjoy using.**
-
--->
